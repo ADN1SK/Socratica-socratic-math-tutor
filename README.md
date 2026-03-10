@@ -9,6 +9,8 @@ Hi there! I'm ADN1SK, passionate about building accessible tools and compassiona
 - **Featured Project:**  
   - [Socratica-socratic-math-tutor](https://github.com/ADN1SK/Socratica-socratic-math-tutor)  
     - *A compassionate AI math tutor, step-by-step guidance, and Socratic conversations.*
+##screenshot:<img width="964" height="577" alt="Screenshot From 2026-03-10 22-29-06" src="https://github.com/user-attachments/assets/15fc2689-b18a-4212-9d65-9166a4ce5e88" />
+
 
 ## 🌱 What drives me
 
