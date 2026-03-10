@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Welcome to ADN1SK's GitHub!
 
-# Run and deploy your AI Studio app
+Hi there! I'm ADN1SK, passionate about building accessible tools and compassionate AI experiences. My featured project, [Socratica-socratic-math-tutor](https://github.com/ADN1SK/Socratica-socratic-math-tutor), is an AI-powered tutor that guides learners through math problems step-by-step using the Socratic method.
 
-This contains everything you need to run your app locally.
+## 🚀 Highlights
 
-View your app in AI Studio: https://ai.studio/apps/129577e3-339f-48cb-834b-a6c68ed94ce3
+- **AI & Education Focus:** Crafting software that supports learning, growth, and curiosity.
+- **TypeScript Mastery:** Over 90% of my code is written in TypeScript (with a dash of CSS and HTML) for robust, scalable web solutions.
+- **Featured Project:**  
+  - [Socratica-socratic-math-tutor](https://github.com/ADN1SK/Socratica-socratic-math-tutor)  
+    - *A compassionate AI math tutor, step-by-step guidance, and Socratic conversations.*
 
-## Run Locally
+## 🌱 What drives me
 
-**Prerequisites:**  Node.js
+I believe technology should create opportunities, empower learners, and make knowledge accessible for all.
 
+## 📊 Languages & Tools
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **TypeScript**
+- **CSS**
+- **HTML**
+- (…and always learning more!)
+
+## ✨ Connect & Collaborate
+
+I’m always open to new ideas, feedback, and collaboration opportunities. Drop me a line or check out my work to get involved!
+
+---
+
+*This README is a starting point for introducing myself and my work. The next step is personalization!*
+
+---
+
