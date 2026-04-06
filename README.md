@@ -2,7 +2,7 @@
 
 Hi there! I'm ADN1SK, passionate about building accessible tools and compassionate AI experiences. My featured project, [Socratica-socratic-math-tutor](https://github.com/ADN1SK/Socratica-socratic-math-tutor), is an AI-powered tutor that guides learners through math problems step-by-step using the Socratic method.
 
-## 🚀 Highlights
+__## 🚀 Highlights__
 
 - **AI & Education Focus:** Crafting software that supports learning, growth, and curiosity.
 - **TypeScript Mastery:** Over 90% of my code is written in TypeScript (with a dash of CSS and HTML) for robust, scalable web solutions.
