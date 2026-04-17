@@ -34,8 +34,3 @@ I’m always open to new ideas, feedback, and collaboration opportunities. Drop 
 *This README is a starting point for introducing myself and my work. The next step is personalization!*
 
 ---
-
-
-
-
-
